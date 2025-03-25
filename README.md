@@ -7,4 +7,8 @@ En este tipo de bases de datos, los datos se almacenan en registros dentro de ta
 
 MODELO LÓGICO BASE DATOS (NORMALIZADO) 
 >![Modelo_logico](https://github.com/user-attachments/assets/030f0556-b951-40cc-b81e-a10843b80f62)
+![Modelo_logico2](https://github.com/user-attachments/assets/c59c6c29-3cf7-45cd-b354-20ffb408ffca)
+
+## Relaciones y atriburtos con Erwin Data Modeler
+![erwin](https://github.com/user-attachments/assets/c5b2f81b-09b2-4586-b3ef-fdd3f99959c4)
 
