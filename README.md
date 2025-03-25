@@ -12,3 +12,5 @@ MODELO LÓGICO BASE DATOS (NORMALIZADO)
 ## Relaciones y atriburtos con Erwin Data Modeler
 ![erwin](https://github.com/user-attachments/assets/c5b2f81b-09b2-4586-b3ef-fdd3f99959c4)
 
+## Modelo Físico
+![Diagrama_BD_Farmacia](https://github.com/user-attachments/assets/c705e9d1-3108-4e6e-a302-1cd35ed9d9f6)
